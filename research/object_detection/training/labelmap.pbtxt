@@ -1,4 +1,9 @@
-item{
-    id:1
-    name: 'two'
+item {
+  id: 1
+  name: 'one'
+}
+
+item {
+  id: 2
+  name: 'two'
 }
